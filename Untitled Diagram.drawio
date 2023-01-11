@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T14:04:48.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="20.8.4" etag="QYmticMgBsPs1Hzh8WCf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T14:49:39.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="20.8.4" etag="rRWFX2s9P4AoBYAGGtOs" type="github">
   <diagram id="bGvrxRj8U3dmUhCTGbN-" name="Page-1">
-    <mxGraphModel dx="1776" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2811" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-6" value="Software" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-8" target="kA7GPqTjZ7eNshGZkS2o-10">
           <mxGeometry relative="1" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-116" value="Hardware" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-118" target="kA7GPqTjZ7eNshGZkS2o-120">
           <mxGeometry relative="1" as="geometry" />
@@ -185,16 +185,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-118" value="Run Dell Laptop Diagnostics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-120" target="kA7GPqTjZ7eNshGZkS2o-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-120" value="No Problems Dectected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="-820" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-122" target="kA7GPqTjZ7eNshGZkS2o-191">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-122" value="Problem Dectected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="-420" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-124" target="kA7GPqTjZ7eNshGZkS2o-126">
           <mxGeometry relative="1" as="geometry" />
@@ -203,22 +206,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-124" value="Reset Dell CMOS settings" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-840" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-126" target="kA7GPqTjZ7eNshGZkS2o-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-126" value="No, or unable to reset COMS settings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="510" width="140" height="80" as="geometry" />
+          <mxGeometry x="-620" y="480" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-128" target="kA7GPqTjZ7eNshGZkS2o-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-128" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1020" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-132" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1020" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-134" target="kA7GPqTjZ7eNshGZkS2o-137">
           <mxGeometry relative="1" as="geometry" />
@@ -227,16 +230,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-134" value="Check that every button on the laptop works" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-610" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-137" target="kA7GPqTjZ7eNshGZkS2o-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-137" value="A button is not working" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="-790" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-139" target="kA7GPqTjZ7eNshGZkS2o-193">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-139" value="All keys are working" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="-390" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-144">
           <mxGeometry relative="1" as="geometry" />
@@ -244,14 +250,27 @@
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-780" y="890" />
+              <mxPoint x="-780" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-720.4444444444446" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-142" value="Diagnose problem&amp;nbsp;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-144" target="kA7GPqTjZ7eNshGZkS2o-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-144" value="The key is not going down all the way" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-147" target="kA7GPqTjZ7eNshGZkS2o-149">
           <mxGeometry relative="1" as="geometry" />
@@ -260,25 +279,118 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-147" value="Remove keycap and blow the key slot with compressed air then try again" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-610" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-149" target="kA7GPqTjZ7eNshGZkS2o-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-149" value="The key works" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="-390" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-151" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1150" width="80" height="80" as="geometry" />
+          <mxGeometry x="-390" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kA7GPqTjZ7eNshGZkS2o-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-154" target="kA7GPqTjZ7eNshGZkS2o-142">
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-154" target="kA7GPqTjZ7eNshGZkS2o-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-154" value="The key still does not work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1100" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-157" target="kA7GPqTjZ7eNshGZkS2o-159">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-157" value="The key is stuck down" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="-990" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-159" target="kA7GPqTjZ7eNshGZkS2o-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-159" target="kA7GPqTjZ7eNshGZkS2o-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-159" value="Remove the keycap and check that the two-plastic spring and the hinges on the key are not damaged" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="970" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-161" target="kA7GPqTjZ7eNshGZkS2o-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-161" value="The two-plastic spring is not damaged" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-163" target="kA7GPqTjZ7eNshGZkS2o-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-163" value="clean the keycap slot with rubbing alcohol and replace the keycap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-165" target="kA7GPqTjZ7eNshGZkS2o-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-165" value="The key works" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-169" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-172" target="kA7GPqTjZ7eNshGZkS2o-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-172" value="The two-plastic spring or keycap is damaged" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-174" target="kA7GPqTjZ7eNshGZkS2o-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-174" target="kA7GPqTjZ7eNshGZkS2o-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-174" value="Replace the spring and keycap with a new one" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-176" target="kA7GPqTjZ7eNshGZkS2o-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1350" y="910" />
+              <mxPoint x="-809" y="910" />
+              <mxPoint x="-809" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-176" value="The key still does not work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-182" target="kA7GPqTjZ7eNshGZkS2o-187">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-790" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-182" value="The key can be pressed but no input is registered" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-186" target="kA7GPqTjZ7eNshGZkS2o-187">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-186" value="The button is not on the keyboard" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-187" value="Further disassembly required; it would be better to replace the laptop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1490" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-190" value="Note: if a problem is really obvious, i.e.: cracked screen, missing keycaps, broken camera then there is no need to follow the flowchart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-191" value="Usually, diagnostic errors are problems that require full disassembly. It would be preferable to replace the laptop" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="500" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-193" value="The problem is probably Software, try the software side of the flowchart" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="810" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
