@@ -1,11 +1,284 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T13:21:01.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="20.8.4" etag="q_I8nqQsfiqHW3QghUsb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T14:04:48.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="20.8.4" etag="QYmticMgBsPs1Hzh8WCf" type="github">
   <diagram id="bGvrxRj8U3dmUhCTGbN-" name="Page-1">
-    <mxGraphModel dx="833" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-1" target="kA7GPqTjZ7eNshGZkS2o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kA7GPqTjZ7eNshGZkS2o-1" value="Broken Student Laptop" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-2" target="kA7GPqTjZ7eNshGZkS2o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-2" target="kA7GPqTjZ7eNshGZkS2o-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-2" value="Is the problem hardware or software" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-6" target="kA7GPqTjZ7eNshGZkS2o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-6" value="Software" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-8" target="kA7GPqTjZ7eNshGZkS2o-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-8" target="kA7GPqTjZ7eNshGZkS2o-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-8" value="Is the problem fixed with a restart" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-10" target="kA7GPqTjZ7eNshGZkS2o-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-10" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-15" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-17" target="kA7GPqTjZ7eNshGZkS2o-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-17" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-19" target="kA7GPqTjZ7eNshGZkS2o-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-19" target="kA7GPqTjZ7eNshGZkS2o-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-19" value="Does updating the computer fix the problem" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-21" target="kA7GPqTjZ7eNshGZkS2o-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-21" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-23" target="kA7GPqTjZ7eNshGZkS2o-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-23" value="No or unable to update" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-25" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-27" target="kA7GPqTjZ7eNshGZkS2o-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-27" target="kA7GPqTjZ7eNshGZkS2o-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-27" value="Does resetting all settings to default fix the problem" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-29" target="kA7GPqTjZ7eNshGZkS2o-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-29" value="No or unable to reset settings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-31" target="kA7GPqTjZ7eNshGZkS2o-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-31" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-33" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-35" target="kA7GPqTjZ7eNshGZkS2o-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-35" target="kA7GPqTjZ7eNshGZkS2o-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-35" value="Does restoring the computer from backup fix the problem" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-37" target="kA7GPqTjZ7eNshGZkS2o-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-37" value="No or unable to restore computer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-39" target="kA7GPqTjZ7eNshGZkS2o-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-39" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-41" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-49" target="kA7GPqTjZ7eNshGZkS2o-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-49" target="kA7GPqTjZ7eNshGZkS2o-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-49" value="Check that the problem is not a hardware issue by doing the hardware side of this tree" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-51" target="kA7GPqTjZ7eNshGZkS2o-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-51" value="The problem was fixed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-53" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-55" target="kA7GPqTjZ7eNshGZkS2o-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-55" value="The problem persists" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-57" target="kA7GPqTjZ7eNshGZkS2o-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-57" target="kA7GPqTjZ7eNshGZkS2o-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-57" value="Reinstall windows on the laptop, is the problem fixed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-59" target="kA7GPqTjZ7eNshGZkS2o-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-59" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-61" target="kA7GPqTjZ7eNshGZkS2o-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-61" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-63" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-65" value="The problem was not a software problem" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-116" target="kA7GPqTjZ7eNshGZkS2o-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-116" value="Hardware" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-118" target="kA7GPqTjZ7eNshGZkS2o-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-118" target="kA7GPqTjZ7eNshGZkS2o-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-118" value="Run Dell Laptop Diagnostics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-120" target="kA7GPqTjZ7eNshGZkS2o-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-120" value="No Problems Dectected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-122" value="Problem Dectected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-124" target="kA7GPqTjZ7eNshGZkS2o-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-124" target="kA7GPqTjZ7eNshGZkS2o-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-124" value="Reset Dell CMOS settings" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-126" target="kA7GPqTjZ7eNshGZkS2o-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-126" value="No, or unable to reset COMS settings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-128" target="kA7GPqTjZ7eNshGZkS2o-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-128" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-132" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-134" target="kA7GPqTjZ7eNshGZkS2o-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-134" target="kA7GPqTjZ7eNshGZkS2o-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-134" value="Check that every button on the laptop works" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-137" target="kA7GPqTjZ7eNshGZkS2o-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-137" value="A button is not working" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-139" value="All keys are working" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-142" target="kA7GPqTjZ7eNshGZkS2o-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-142" value="Diagnose problem&amp;nbsp;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-144" target="kA7GPqTjZ7eNshGZkS2o-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-144" value="The key is not going down all the way" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-147" target="kA7GPqTjZ7eNshGZkS2o-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-147" target="kA7GPqTjZ7eNshGZkS2o-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-147" value="Remove keycap and blow the key slot with compressed air then try again" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-149" target="kA7GPqTjZ7eNshGZkS2o-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-149" value="The key works" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-151" value="Done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA7GPqTjZ7eNshGZkS2o-154" target="kA7GPqTjZ7eNshGZkS2o-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-154" value="The key still does not work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kA7GPqTjZ7eNshGZkS2o-157" value="The key is stuck down" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
